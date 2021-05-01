@@ -27,8 +27,8 @@
                 <div>
                 <ul class="list">
                    <li><a href="mailto:alexey.devios@gmail.com">E-mail</a></li>
-                   <li>Tel.: </li>
-                   <li>Skype: </li> 
+                   <li>Tel. +38(097)914-37-70: </li>
+                   <li>Skype: martian-pathfinder</li> 
                </ul>
                </div>
 
