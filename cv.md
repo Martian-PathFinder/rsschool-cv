@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -12,7 +11,7 @@
       <div class="content">  
         <div>
             <header>
-                <h1> The Junior Developer resume </h1>
+                <h1>Resume Intern Developer: </h1>
             </header>
         </div>
             <div>
@@ -20,7 +19,7 @@
             </div>
           
             <div>
-                <img class="photo" src="" alt="Photo Martian PathFinder">
+                <img class="photo" src="photo-martian-pathfinder.jpg" alt="Photo Martian PathFinder">
             </div>
                  
             <address>   
